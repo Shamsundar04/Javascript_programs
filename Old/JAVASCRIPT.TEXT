@@ -1,0 +1,69 @@
+Variable or identifires 
+
+
+
+
+
+
+
+
+
+
+var is a function scoped variable. We can redeclare, reassign these value. 
+var variable 
+
+let and cost : let and const are block scoped variable. we cannot redeclare them adn we cannot access them before initialization 
+
+
+
+Datatype:
+
+
+    Datatype defines the types of data. JS is dynamically typed language. 
+    There is no fixed data type for any variable. its Datatype depends value it is holding ..
+
+    Basically there tow datatype
+
+    i. primitive 
+    ii. Non-primitive
+
+
+i.primitive:
+
+    these datatype compare the values and immutable. The primitive datatype in javascript are
+
+    a.number
+    b.string
+    c.boolean 
+    d.undefined
+    e.null
+
+ii.Non-primitive :
+
+    a.functions
+    b.
+
+
+
+
+
+
+Typecasting:
+
+     Typecasting is use to converting one type into another type 
+
+     i.implicit :
+        converting smaller type into into larger and it is the automatically converting one data type into another 
+
+    ii.explicit :
+        converting larger type into smaller using the method like
+
+
+        Function	        Converts To
+
+        1.Number(value)	    Number
+        2.String(value)	    String
+        3.Boolean(value)	Boolean
+        4.parseInt()	    Integer
+        5.parseFloat()	    Float  
+        6.unary + it is the modern way to convert any value to number

@@ -1,0 +1,50 @@
+Programming: Programming or coding is a new school of thought to perform an 
+algorithm(Step by step problem solving procedure)           
+
+    BASIC:
+        introduction , variables
+        datatype, operator
+        Decision making statements(If and switch)
+        loops(while, do while, for)
+        functions
+        Arrays
+        Object
+
+    DOM:
+        DOM selection, manipulation,creation
+        Events
+
+
+==========
+Javascript
+==========
+
+    Javascript is synchronous, single threaded Programming language. it is developed by brenden Eich in 1995
+    initially named as "Livescript". To use the popularity of 3"JAVA", it is renamed as "JAVASCRIPT".
+    Javascript used fro functionality and behavior of web pages.
+
+    Javascript is run by the Browsers. Every browser will have a JS engine that runs the JS. for google chrome JS engine is v8.
+
+    How to connect JS into HTML?
+    There are two was to include JS into HTML 
+    i.Internal Javascript
+    ii.External Javascript
+
+
+    i.Internal Javascript :-
+
+        In Internal Javascript, script tag is used along with JS code 
+
+        <script>
+            //code
+        </script>
+
+    ii.External Javascript :-
+
+        In External js, script tag is used with 
+        
+        src(path to external file)
+
+        <script sr="path to js "> </script>
+
+        Every browser contains lot of tools to help to developer to debugging developer tools 

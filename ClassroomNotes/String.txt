@@ -1,0 +1,40 @@
+Strings:
+
+
+    Strings are immutable 
+
+    Strings are used to represents alpha-numeric values such as name, 
+    username, paragraphs etc.
+
+    Strings can be represented by using single quotes, double quotes or bac-tics. 
+    Strings also stores the data as an array of characters where each characters
+    
+
+
+
+
+
+    There is no difference between single or doubl equote but for dynamic strings with backticks(``);
+
+    backticks can provide variabble values or perform operation using ${}. 
+    This is type of stings are also called templates literals
+
+
+
+Strings Methods:
+
+    stings in javascript provides lot of methods such as 
+
+   1. length: returns total no of characters inside a string 
+   2. toUpperCase(): return UpperCase converted value of given string 
+   3. toLowerCase(): return Lowercase of the given string
+   4. trim(): remove first and last blank space of the string
+   5. indexOf(): return the index of given characters
+   6. lastIndexOf(): returns last occurrence index of given character
+   7. charAt(index): return the character at specified index.
+   8. slice(start,end): returns sub string  or a portion of original string from start
+        index to end index. end index is not included. incase end index is not provided ,it will return entire sting 
+        from start index 
+   9. split: returns an array of strings remain after splitting the given string based on delimiter
+        eg:"prasad".
+   10.

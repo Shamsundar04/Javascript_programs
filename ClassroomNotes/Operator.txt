@@ -1,0 +1,78 @@
+Operator:
+    Operator are used to perform operation on operants is called as the operator
+
+    1.Arithmetic operator:
+        These operators are used to perform Arithmaric operations between numerical values
+
+        eg: + , - , *, /,%
+
+        let a=10;
+        let b=20;
+        console.log(a + b);
+        console.log(a - b);
+        console.log(a / 2);
+        console.log(a * b);
+        console.log(a % b);
+        console.log(2 ** 3);
+
+    2.Logical operator:
+
+        These operator are used to perform logical operation 
+        eg: AND(&&), OR(||), NOT(!)
+
+    3.Relational operator:
+
+        compare two values.
+        They return a Boolean value (true or false) based on the result of the comparison.
+
+        >	Greater than            	5 > 3	    true
+        <	Less than	                5 < 3	    false
+        >=	Greater than or equal to	5 >= 5	    true
+        <=	Less than or equal to	    3 <= 2	    false
+        ==	Equal to (loose equality)	5 == "5"	true
+        ===	Equal to (strict equality)	5 === "5"	false
+        !=	Not equal to (loose)	    5 != "5"	false
+        !==	Not equal to (strict)	    5 !== "5"	true
+
+    4.Assignment operator:
+
+        assignment operator used to assign the value
+
+        Operator	Example	    Meaning
+            +=	    x += 5;	    x = x + 5;
+            -=	    x -= 3;	    x = x - 3;
+            *=	    x *= 2;	    x = x * 2;
+            /=	    x /= 4;	    x = x / 4;
+            %=	    x %= 3;	    x = x % 3;
+            **=	    x **= 2;    x = x ** 2; (Exponent)
+
+
+    5.Ternary operator:
+
+        The ternary operator in JavaScript is a shortcut for if...else statements. 
+        It's used to assign a value or execute code based on a condition.
+
+        Syntax:
+        condition ? expression_if_true : expression_if_false;
+   
+    6.Unary operator:
+
+        These operators uses single operands
+        eg.'+' -- it is used to convert any datatype to numbers like +'5' -->5
+
+        increment and decrement :
+
+            we can increment 
+
+
+            ++ is used for increment (increase value by 1)
+            -- is used for decrement (decrease value by 1)
+            ++a (pre-increment) it will first increase the value and assigns it
+            a++ (post-increment)
+
+    7.Nullish Coalescing Operator
+
+        The ?? operator returns the right-hand side value only if the left-hand side is null or undefined.
+
+
+    WAP a code which have two balues and a and b

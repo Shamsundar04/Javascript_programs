@@ -1,0 +1,19 @@
+Default Method:
+    Javascript provide so many default methods.
+    Here we discuss default number, math and string method.
+
+    Number Methods:
+        i. toFixed(value): it is used to round up number ot specific no of digits after decimal 
+
+        let n= 12.3434;
+        consol.lgo(n.toFixed(2));
+
+        ii.toPrecision(value): it is used to round up number to specific no of digits from starting
+
+        let n=12.2345;
+        console.log(n.toPrecision(2)); //12
+
+        iii. toString(base): it is used to convert number to string with specific base
+
+        let n=5;
+        consol.log(n.toString(2)); //101
